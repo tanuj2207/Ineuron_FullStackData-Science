@@ -2,23 +2,21 @@ iNeuron-Bank-Marketing-Analytics
 
 A Business Intelligence project completed under iNeuron Intelligence Pvt. Ltd.
 
-DASHBOARD (TABLEAU PUBLIC LINK) : https://public.tableau.com/app/profile/madhav.khurana/viz/BankMarketingCampaign_16361063849920/FinalDashboard
+Power BI Dashboards and reports LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/PowerBI_Report.pbix
 
-PYTHON CODE LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/iNeuron%20BMA%20Code.ipynb
+ARCHITECTURE LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/Architecture.pdf
 
-ARCHITECTURE LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Architecture%20Design%20Document%20-%20Madhav%20Khurana.pdf
+HLD LINK: https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/HIGH%20LEVEL%20DESIGN%20DOCUMENT.pdf
 
-HLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/HIGH%20LEVEL%20DESIGN%20DOCUMENT.pdf
+LLD LINK: https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/LOW%20LEVEL%20DESIGN%20DOCUMENT.pdf
 
-LLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/LOW%20LEVEL%20DESIGN%20DOCUMENT.pdf
+WIREFRAME LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/WireFrame%20Document.pdf
 
-WIREFRAME LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Bank%20Marketing%20Campaign%20Analysis.pdf
+DPR LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/DPR.pptx
 
-DPR LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Project%20Report%20Updated%20-%20Madhav%20Khurana.pptx
+LINKEDIN POST LINK : 
 
-LINKEDIN POST LINK : https://www.linkedin.com/posts/madhav-khurana-1005_ineuron-project-summary-bank-marketing-activity-6841454765637976064-etuI
-
-PROJECT VIDEO LINK : https://drive.google.com/file/d/1wcB3f4JwjTsGqxqLZGA0PyTtCrcIsIAE/view?usp=sharing
+PROJECT VIDEO LINK : 
 
 Overview:
 
@@ -47,7 +45,9 @@ This dataset is based on "Bank Marketing" UCI dataset (please check the descript
 The zip file includes two datasets:
 
 bank-additional-full.csv with all examples, ordered by date (from May 2008 to November 2010).
+
 bank-additional.csv with 10% of the examples (4119), randomly selected from bank-additional-full.csv. The smallest dataset is provided to test more computationally demanding machine learning algorithms (e.g., SVM).
+
 The binary classification goal is to predict if the client will subscribe a bank term deposit (variable y).
 
 Number of Instances: 41188 for bank-additional-full.csv
