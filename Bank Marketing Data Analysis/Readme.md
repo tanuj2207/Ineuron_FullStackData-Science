@@ -14,7 +14,7 @@ WIREFRAME LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing
 
 DPR LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Data%20Analysis/DPR.pptx
 
-LINKEDIN POST LINK : 
+LINKEDIN POST LINK : https://www.linkedin.com/posts/tanuj-sharma-813838143_bank-marketing-data-analytics-activity-6886664015658000384-ssqv
 
 PROJECT VIDEO LINK : 
 
