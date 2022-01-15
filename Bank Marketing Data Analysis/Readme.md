@@ -16,7 +16,7 @@ DPR LINK : https://github.com/tanuj2207/Ineuron/blob/main/Bank%20Marketing%20Dat
 
 LINKEDIN POST LINK : https://www.linkedin.com/posts/tanuj-sharma-813838143_bank-marketing-data-analytics-activity-6886664015658000384-ssqv
 
-PROJECT VIDEO LINK : 
+PROJECT VIDEO LINK : https://drive.google.com/file/d/1LGGQRtXe1V0ho9RS3jxK9YAYZLrW4GvR/view?usp=sharing
 
 Overview:
 
